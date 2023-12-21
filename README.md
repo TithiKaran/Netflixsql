@@ -1,4 +1,5 @@
 # Netflixsql
+                        ![netflix_catalog](https://github.com/TithiKaran/Netflixsql/assets/154304303/e17ca07e-83cf-4312-9d98-42a423a77d54)
 # Overview
 This project involves creating a normalized SQL database derived from a dataset of Netflix shows and movies. The original dataset was obtained from Kaggle: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies .
 The purpose of this project is to demonstrate data normalization and SQL database creation skills, transforming a flat CSV file into a structured and normalized SQL database.
