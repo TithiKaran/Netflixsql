@@ -32,4 +32,7 @@ To address this challenge, my project aims to leverage SQL analytics to analyze 
 17. WHO WERE THE TOP 20 ACTORS THAT APPEARED THE MOST IN MOVIES/SHOWS.
 18. WHO WERE THE TOP 20 DIRECTORS THAT DIRECTED THE MOST MOVIES/SHOWS.
 19. FINDING THE TITLES AND DIRECTORS OF MOVIES RELEASED ON OR AFTER 2010.
+# Netflix Power Bi Dashboard
+
+![Netflix Power bi Dashboard](https://github.com/TithiKaran/Netflixsql/assets/154304303/cddda78e-3955-4b5e-bf66-dca76871d1d5)
 
